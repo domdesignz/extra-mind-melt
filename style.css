@@ -1,0 +1,58 @@
+/**
+ *
+ * @category            WordPress_Theme
+ * @package             Extra_Base_Theme
+ * @author              Dominic Martinelli <domdesignz@hotmail.com>
+ * @license             GPL-2.0+
+ * @link                http://dominicmartinelli.com
+ * @copyright           Copyright: (c) 2016
+ *
+ * @wordpress-theme
+ *
+ * Theme Name:          Extra Martinelli Mind Melt
+ * Theme URI:           http://dominicmartinelli.com
+ * Description:         Basic child theme. For Extra theme from <a href="http://www.elegantthemes.com/gallery/extra/">Elegant Themes</a>
+ * Version:             20160824.1
+ * Author:              Dominic Martinelli
+ * Author URI:          http://dominicmartinelli.com/
+ * License:             GPL-2.0+
+ * License URI:         http://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain:         extra-mind-melt
+ * Domain Path:         /languages
+ *
+ * GitHub Theme URI:    https://github.com/domdesignz/extra-mind-melt
+ * GitHub Branch:       master
+ *
+ * Tags: child-theme, Extra Theme, black, green, white, light, dark, two-columns, three-columns, left-sidebar, right-sidebar, fixed-layout, responsive-layout, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready, accessibility-ready
+ *
+ * Template:            Extra
+ *
+ * Requires WP:         4.4
+ * Requires PHP:        5.3
+ *
+ * Support URI:         http://dominicmartinelli.com/
+ * Documentation URI:   http://dominicmartinelli.com/
+ *
+ * Released under the GPL license
+ * http://www.opensource.org/licenses/gpl-license.php
+ *
+ * This is an add-on for WordPress
+ * http://wordpress.org/
+ *
+ * **********************************************************************
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ * **********************************************************************
+*/
+/* @import url("../Extra/style.css"); */
+
+/* =Child Theme customization starts here
+-------------------------------------------------------------- */
+
